@@ -1,1 +1,1 @@
-This is a repo of my randomly solved codes!
+Whoa, This is a repo of my randomly solved codes!
